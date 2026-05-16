@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "Iron Maiden",
   "bot-account": {
     "username": "Slobot00",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "Ozzy244.aternos.me",
+    "port": 17853,
     "version": "",
     "try-creative": false
   },
